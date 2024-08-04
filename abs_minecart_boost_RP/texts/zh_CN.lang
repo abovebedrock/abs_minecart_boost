@@ -1,0 +1,3 @@
+action.hint.exit.chest_minecart=§e§l此高速列车仅适用于高速铁路，请在地铁系统中使用普通矿车！
+action.hint.exit.minecart=普通矿车已提速，原版速度请使用漏斗矿车
+action.hint.exit.hopper_minecart=§b原版速度列车

@@ -1,0 +1,28 @@
+{
+    "format_version": 2,
+    "metadata": {
+        "authors": [ "LJM12914" ]
+    },
+    "header": {
+        "name": "更好的矿车",
+        "description": "基岩之上服务器模组。给矿车增加速度，并给予它们加载区块的功能。",
+        "uuid": "ef4598d6-91b5-405e-b7d4-f9e653cfc254",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 18, 0],
+        "from": {
+            "Faster Minecarts addon": "https://www.mediafire.com/file/aqjuxw59y4s7yps/Faster_Minecarts_addon.mcaddon",
+            "No More Unloading Minecarts [BP]": "https://www.mediafire.com/file/ilo8n6or1f9d7bw/No_More_Unloading_Minecarts_%255BBP%255D.mcaddon",
+            "More Rideable Minecart": "https://www.mediafire.com/file/2ciuer4qcc68lqu/More_Rideable_Minecart.zip"
+        },
+        "externals": {
+            "Hybrid slabs": "https://www.mediafire.com/file/pvakilljw8nknsy/Hybrid_slabs.mcaddon"
+        }
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "c429febe-9317-412e-b9bf-16a45ed34375",
+            "version": [1, 0, 0]
+        }
+    ]
+}

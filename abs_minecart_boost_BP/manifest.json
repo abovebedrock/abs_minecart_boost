@@ -1,0 +1,26 @@
+{
+    "format_version": 2,
+    "metadata": {
+        "authors": [ "LJM12914" ]
+    },
+    "header": {
+        "name": "更好的矿车",
+        "description": "基岩之上服务器模组。给矿车增加速度，并给予它们加载区块的功能。",
+        "uuid": "2d282fe1-9428-4720-bcbe-d874eea71885",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 18, 0]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "ed08c062-93f3-4442-8885-58b8fa966057",
+            "version": [1, 0, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "ef4598d6-91b5-405e-b7d4-f9e653cfc254",
+            "version": [1, 0, 0]
+        }
+    ]
+}
